@@ -1,6 +1,7 @@
 # Assignment 1 - Your First Application and Introduction to Git
 
 ## Author
+Zachary Dwyer
 
 ## Description
 
